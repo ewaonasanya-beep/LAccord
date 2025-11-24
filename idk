@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>L'Accord Jewelry</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to L'Accord Jewelry</h1>
+  <p>Discover modern elegance and handcrafted pieces.</p>
+  <img src="images/placeholder.png" alt="Jewelry image">
+</body>
+</html>
