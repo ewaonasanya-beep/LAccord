@@ -1,0 +1,38 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #fff;
+    color: #111;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    padding: 50px 20px;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    font-family: 'Cursive', sans-serif;
+    font-weight: normal;
+    color: #bfa26b; /* soft gold */
+}
+
+.gallery {
+    padding: 20px;
+}
+
+.item {
+    display: inline-block;
+    margin: 20px;
+}
+
+.item img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 20px;
+    background-color: #f8f8f8;
+}
